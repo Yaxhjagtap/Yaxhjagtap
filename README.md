@@ -62,36 +62,11 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://img.shields.io/badge/WEB_LEAD-Google_Developer_Groups-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GDG" /><br><br>
-      Architected high-performance, strictly responsive platforms for GDG campus events. Prioritized seamless navigation architecture and optimal UI/UX standards.
+      Architected and deployed high-performance, responsive platforms for GDG campus events. Engineered seamless navigation architectures and enforced optimal UI/UX standards across all technical deliverables.
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://img.shields.io/badge/DEVELOPMENT_INTERN-Ezacus_Technologies-0A0A0A?style=for-the-badge&logo=json&logoColor=white" alt="Ezacus" /><br><br>
-      Engineered FastAPI REST endpoints with modular React.js hooks, optimizing data fetching pipelines and accelerating frontend rendering speeds by 40%.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- DEPLOYED SYSTEMS CARDS -->
-<div align="center">
-  <img src="https://img.shields.io/badge/DEPLOYED_SYSTEMS-0d1117?style=for-the-badge&logoColor=white" alt="Projects" />
-</div>
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>[01] AI INTERVIEW AGENT</b><br>
-      <i>React.js • FastAPI • OpenRouter • 3D</i><br>
-      <br>
-      Engineered a voice-enabled technical interview platform featuring real-time speech processing, live transcription pipelines, and a dynamically responsive 3D avatar interface.
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>[02] CODEPATHSHALA</b><br>
-      <i>MERN Stack • Three.js</i><br>
-      <br>
-      Developed an interactive e-learning ecosystem utilizing gamification algorithms to teach programming syntax. Built robust backend telemetry to track progression and achievement states.
+      Engineered scalable FastAPI REST endpoints and synchronized them with modular React.js hooks. Streamlined complex data fetching pipelines, actively reducing system latency and accelerating frontend rendering speeds by 40%.
     </td>
   </tr>
 </table>
@@ -122,4 +97,6 @@
 </table>
 
 <!-- FOOTER -->
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&text=System_Initialization_Complete&fontSize=12&fontColor=6FB1FC" width="100%" alt="Footer" />
+</div>
