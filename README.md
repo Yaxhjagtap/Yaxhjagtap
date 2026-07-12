@@ -29,8 +29,8 @@
   <tr>
     <td width="100%" align="center">
       <img src="https://img.shields.io/badge/EXECUTIVE_SUMMARY-0d1117?style=for-the-badge&logoColor=white" alt="Summary" /><br><br>
-      <b>AI and Data Sciences Engineering Student (Class of 2026)</b><br>
-      Specialized in engineering scalable web applications, integrating complex machine learning models, and optimizing database architectures. Focused on delivering high-performance, minimalist user experiences and robust API backends.
+      <b>AI and Data Sciences Engineer</b><br>
+      Specialized in engineering scalable web applications, integrating complex machine learning models, and optimizing database architectures and Specialised in Djangon and Django REST framework. Focused on delivering high-performance, minimalist user experiences and robust API backends.
     </td>
   </tr>
 </table>
