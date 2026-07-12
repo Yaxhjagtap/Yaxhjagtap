@@ -96,7 +96,3 @@
   </tr>
 </table>
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&text=System_Initialization_Complete&fontSize=12&fontColor=6FB1FC" width="100%" alt="Footer" />
-</div>
